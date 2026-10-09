@@ -14,9 +14,10 @@
   "foot-content": "Walkthrough content by",
   "foot-interface": "Walthrough interface by",
   "foot-interface-alt": "Link to Aloof Tooth's profile on F95zone.com",
-  "foot-translation": "",
-  "foot-translation-alt": "",
-  "foot-translation-url": "",
+  "foot-translation": null,
+  "foot-translation-alt": null,
+  "foot-translation-url": null,
+  "foot-translation-link": null,
   "menu": {
     "wt-info": "Information",
     "wt-tips": "Tips &amp; tricks",
